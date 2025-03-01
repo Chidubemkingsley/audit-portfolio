@@ -4,13 +4,21 @@
 
 
 
-#### My goal is to help you to protect your codebase against anypredictable incidental hacks and abuse.
+
+
+#### My goal is to help you protect your codebase against any predictable incidental hacks and abuse.
+
+
+
 
 
 #### For Private Audits Or Security Comsulting, Reach Out to Me On:
 
 - Telegram [@TZARblue](https://t.me/TZARblue)
 - Twitter [@KingsleyCaesar1](x.com/KinsgleyCaesar1)
+
+
+
 
 
 

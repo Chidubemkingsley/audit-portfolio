@@ -15,7 +15,7 @@
 #### For Private Audits Or Security Comsulting, Reach Out to Me On:
 
 - Telegram [@TZARblue](https://t.me/TZARblue)
-- Twitter [@KingsleyCaesar1](x.com/KinsgleyCaesar1)
+- Twitter [@KingsleyCaesar1](https://x.com/KinsgleyCaesar1)
 
 
 

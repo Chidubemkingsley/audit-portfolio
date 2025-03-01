@@ -7,10 +7,10 @@
 #### My goal is to help you to protect your codebase against anypredictable incidental hacks and abuse.
 
 
-#### DM Me Here To Get Started:
+#### For Private Audits Or Security Comsulting, Reach Out to Me On:
 
-- [Telegram](t.me/TZARblue)
-- [X](x.com/KinsgleyCaesar1)
+- Telegram [@TZARblue](https://t.me/TZARblue)
+- Twitter [@KingsleyCaesar1](x.com/KinsgleyCaesar1)
 
 
 
